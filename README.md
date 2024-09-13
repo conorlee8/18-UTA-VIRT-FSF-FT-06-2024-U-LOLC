@@ -1,5 +1,13 @@
 # 18 NoSQL: Social Network API
 
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [API Routes](#api-routes)
+  - [User Routes](#user-routes)
+  - [Thought Routes](#thought-routes)
+- [Walkthrough Video](#walkthrough-video)
+
 ## Description
 A NoSQL-based Social Network API built using MongoDB, Express.js, and Mongoose. It allows users to create thoughts, react to thoughts, and manage a friend list.
 
@@ -28,5 +36,12 @@ A NoSQL-based Social Network API built using MongoDB, Express.js, and Mongoose. 
 - `POST /api/thoughts/:thoughtId/reactions` - Add a reaction
 - `DELETE /api/thoughts/:thoughtId/reactions/:reactionId` - Remove a reaction
 
-## Demo Video
-Link to the walkthrough video showing API functionality.
+## Walkthrough Video
+
+A video walkthrough demonstrating the functionality of the NoSQL Social Network API can be found [here](./public/assets/videos/DEMO%20-%2018%20NoSQL%20Social%20Network%20API.mp4).
+
+## About the Developer
+
+This project was created and developed by **Conor Lee**, a passionate web developer with a focus on backend technologies and a growing interest in NoSQL databases like MongoDB. With experience in creating full-stack applications and managing API development, Conor enjoys solving complex problems and learning new technologies.
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/conormlee/) or check out my [GitHub](https://github.com) for more projects and collaborations.
